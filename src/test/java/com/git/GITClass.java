@@ -5,7 +5,7 @@ public class GITClass {
 		System.out.println();
 
 	}
-	public void test9() {
+	public void test2() {
 		System.out.println();
 
 	}
