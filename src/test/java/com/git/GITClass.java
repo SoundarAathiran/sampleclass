@@ -13,7 +13,7 @@ public class GITClass {
 		System.out.println();
 
 	}
-	public void test9() {
+	public void test8() {
 		System.out.println("Aathira lakshiha");
 
 	}
