@@ -23,5 +23,8 @@ public class GITClass {
 
 	}
 	
+public void test10() {
+		System.out.println("lakshiha");
 
+	}
 }
