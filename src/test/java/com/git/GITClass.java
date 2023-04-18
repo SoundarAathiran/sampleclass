@@ -18,6 +18,10 @@ public class GITClass {
 
 	}
 	
+	public void test9() {
+		System.out.println("Aathira lakshiha");
+
+	}
 	
 
 }
