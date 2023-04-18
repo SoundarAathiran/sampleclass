@@ -27,4 +27,8 @@ public void test10() {
 		System.out.println("lakshiha");
 
 	}
+	public void test11() {
+		System.out.println("Aathiran");
+
+	}
 }
